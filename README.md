@@ -1,1 +1,13 @@
-# OperatingPlatforms
+# OperatingPlatforms  
+<ins>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</ins>  
+The Gaming Room is a gaming company that currently has an android-based mobile game, Draw It or Lose It, but wants to branch out to add compatibility for multiple operating platforms.  They wanted a way for people on different devices to still be able to play their game together.  
+<ins>What did you do particularly well in developing this documentation?</ins>  
+While preparing the documentation for The Gaming Room's software design template, I was able to successfully determine a viable method to move forward expanding their application.  Using the server-client architecture will allow them to easily produce the functionality they need to satisfy their customers.  
+<ins>What about the process of working through a design document did you find helpful when developing the code?</ins>  
+I found it extremely helpful to create a UML class diagram before moving forward developing the code base.  Identifying what fields and methods needed to be private or public, as well as what classes needed to be interconnected was very important for proper code development.  
+<ins>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</ins>  
+I felt like my comparison between Mac OS, Windows, Linux, and mobile devices for Servers, Clients, and development tools could have been expanded on.  I would like to know more information on mobile client and server development because the information I found was pretty limited, so I would include that in a revised design template.  
+<ins>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</ins>  
+I interpreted that The Gaming Room wanted a way for multidevice gameplay because they would like to expand their customer base.  It is important to understand what your user needs as you may end up taking the whole project in the wrong direction if poor communication becomes a problem.  
+<ins>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</ins>  
+To design the software, I first identified what design models were appropriate for The Gaming Room's needs, then modified the UML Class diagram to reflect the needs.  Once the diagram was created, I implemented each class as a barebones file with comments before expanding on each required method and field.  I will use this process on any future assignments as it worked well for me.  
